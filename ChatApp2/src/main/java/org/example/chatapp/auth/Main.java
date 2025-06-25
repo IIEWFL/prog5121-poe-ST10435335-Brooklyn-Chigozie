@@ -11,6 +11,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type; // For TypeToken
 
+
+//https://www.w3schools.com/java/default.asp
+//https://www.w3schools.com/java/java_getstarted.asp
+//https://www.w3schools.com/java/java_output.asp
+//https://www.w3schools.com/java/java_booleans.asp
+//https://www.w3schools.com/java/java_arrays.asp
+//https://www.w3schools.com/java/java_methods.asp
+//Google Gemini AI Language Model, version 2025
 public class Main {
 
     // --- Arrays to populate as per Part 3 requirements ---
